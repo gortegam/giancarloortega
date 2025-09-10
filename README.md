@@ -8,7 +8,7 @@
 - **Patient Outcome Analysis** – uncovering trends in treatment results
 - **Lab Turnaround Optimization** – finding bottlenecks in lab processing
 - **Disease Risk Prediction** – using machine learning to anticipate conditions
-
+- **PathSlide2Report** - using multimodal generative AI to convert slide images and metadata into natural-language reports.
 ## 🧠 Technical Toolkit
 Python | Pandas | SQL | Power BI | Scikit-learn | Matplotlib | Git | Excel | Power Automate
 
